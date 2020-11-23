@@ -1,0 +1,4 @@
+include ':canary_plugin'
+include ':canary_lib'
+include ':app'
+rootProject.name = "BatteryCanary"
